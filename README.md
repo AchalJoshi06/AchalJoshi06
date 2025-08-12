@@ -1,3 +1,14 @@
+## 🌟 About Me
+
+Tech enthusiast and lifelong learner, exploring Python projects, automation, and data visualization with Power BI.
+
+Passionate about open-source contributions, building creative solutions, and constantly experimenting with new technologies.
+
+Enjoy solving logical problems, enhancing my coding skills, and finding smart ways to automate everyday tasks.
+
+Keen on understanding the "why" behind how things work, and using that knowledge to build efficient, practical tools.
+
+Balancing studies with personal projects, and always looking for opportunities to grow as a developer and problem solver.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:achal.joshi.s.024@gmail.com) 
