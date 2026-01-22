@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Ace  
+## 👋 Hi, I’m Achal
 📊 Aspiring Data Analyst | Power BI • Python • Data Visualization  
 🚀 Building dashboards, analytics & automation projects  
 
